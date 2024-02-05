@@ -1,3 +1,1 @@
-javac Language.java
-javac Greeter.java
-javac Main.java
+javac -d bin src/*.java
