@@ -1,5 +1,7 @@
-import is.hi.sbb51.hbv202g.ass3.backend.Greeter;
-import is.hi.sbb51.hbv202g.ass3.frontend.UserInterface;
+package src;
+
+import src.is.hi.sbb51.hbv202g.ass3.backend.Greeter;
+import src.is.hi.sbb51.hbv202g.ass3.frontend.UserInterface;
 
 public class Main {
 
